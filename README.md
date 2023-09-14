@@ -9,7 +9,6 @@
   - [Texas Instruments](https://www.ti.com/), where I worked on a team to automate validation processes using Python
   - [Jabil Packaging Solutions](https://www.jabil.com/industries/packaging-solutions.html), where I worked closely with a process engineer to update and upgrade all the injection molding process guides
   - [Commonwealth Edison Company](https://www.comed.com/Pages/default.aspx), where I collaborated with engineers to close out work agreements
-  - 
 
 - 👯 I’m looking to collaborate on projects that are:
 
