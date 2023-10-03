@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - ⚡ About me:
-  - I'm currently a Ph.D. student versed in ML coding, reviewing plans, writing reports, and researching solutions.
+  - I'm currently a Ph.D. candidate versed in ML coding, reviewing plans, writing reports, and researching solutions.
   - Currently at the [UofA](https://www.arizona.edu/) in Tucson, AZ
   - I'm currently working on a system that enables tactile feedback in robotics-assisted minimally invasive surgery
 
@@ -10,7 +10,7 @@
   - [Jabil Packaging Solutions](https://www.jabil.com/industries/packaging-solutions.html), where I worked closely with a process engineer to update and upgrade all the injection molding process guides
   - [Commonwealth Edison Company](https://www.comed.com/Pages/default.aspx), where I collaborated with engineers to close out work agreements
 
-- 👯 I’m looking to collaborate on projects that are:
+- 👯 I'm looking to collaborate on projects that are:
 
   - ML to aid Robotics
   - Impactful to the public
