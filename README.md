@@ -23,6 +23,7 @@
   - Via [LinkedIn](https://www.linkedin.com/in/dema-govalla-063495186/)
 
 
+![Dema's github stats](https://github-readme-stats.vercel.app/api?username=DemaGovalla&count_private=true&show_icons=true&theme=solarized-light)
 
-![Dema's github stats](https://github-readme-stats.vercel.app/api?username=DemaGovalla&count_private=true&show_icons=true&theme=solarized-light&icon_color=3776AB)
+
 
