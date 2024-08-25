@@ -1,9 +1,12 @@
 ### Hi there 👋
 
 - ⚡ About me:
-  - I'm currently a Ph.D. candidate versed in ML coding, reviewing plans, writing reports, and researching solutions.
-  - Currently at the [UofA](https://www.arizona.edu/) in Tucson, AZ
-  - I'm currently working on a system that enables tactile feedback in robotics-assisted minimally invasive surgery
+  I have a Ph.D. in Electrical engineering and Computer Engineering. I am versed in digital electronic design, DSP, ML coding, reviewing plans, writing reports, and researching solutions.
+  - Currently at the [UNLV](https://www.unlv.edu/) in Las Vegas, NV, as visiting assistant professor,
+    
+- Past and current personal projects:
+  - I am currently working on a Web and App social application  
+  - I previously worked on a system that enables tactile feedback in robotics-assisted minimally invasive surgery
 
 - 🔨 My past work experience includes internships at:
   - [Texas Instruments](https://www.ti.com/), where I worked on a team to automate validation processes using Python
